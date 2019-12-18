@@ -23,7 +23,7 @@ namespace Test
         public MainWindow()
         {
             InitializeComponent();
-            string t;
+            string tu_tu;
         }
     }
 }
